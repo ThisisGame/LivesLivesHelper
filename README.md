@@ -9,4 +9,12 @@ Follow the images.
 ![image](https://github.com/ThisisGame/LivesLivesHelper/blob/master/raw/master/images-folder/2.png)
 ![image](https://github.com/ThisisGame/LivesLivesHelper/blob/master/raw/master/images-folder/3.png)
 ![image](https://github.com/ThisisGame/LivesLivesHelper/blob/master/raw/master/images-folder/4.png)
+
+
+#Notice
+
+in your game project,you must add permission to access wifi state
+
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
 ![image](https://github.com/ThisisGame/LivesLivesHelper/blob/master/raw/master/images-folder/5.png)
